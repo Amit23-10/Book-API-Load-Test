@@ -4,7 +4,7 @@
 - Apache Jmeter
 
 # Scenario
-Here The [BooksStoreAPI](https://random-data-api.com/api/v2/users) API is used for load testing, with an hourly load of 10,000 predicted. Using a Jmeter, many tests have been run for loads of 60, 300, 600, 1200, and 1800 seconds. The tests with TPS breakdown are compiled into an Excel spreadsheet, and test screenshots are connected to a Word document that contains the HTML report for the most recent test, which had 5000 users and was conducted in the 1800s.
+Here The [BooksStoreAPI](https://random-data-api.com/api/v2/users) is used for load testing, with an hourly load of 10,000 predicted. Using a Jmeter, many tests have been run for loads of 60, 300, 600, 1200, and 1800 seconds. The tests with TPS breakdown are compiled into an Excel spreadsheet, and test screenshots are connected to a Word document that contains the HTML report for the most recent test, which had 5000 users and was conducted in the 1800s.
 
 # Overall TPS and test breakdown
 
